@@ -1,4 +1,4 @@
-(defproject clojure-curand "0.11.1"
+(defproject com.dedovic/curand-clj "0.11.1"
   :description "A cuRAND wrapper for Clojure"
   :url "https://github.com/sdedovic/curand-clj"
   :license {:name "Eclipse Public License 2.0"

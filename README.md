@@ -1,11 +1,16 @@
 # cuRAND-clj
+[![Clojars Project](https://img.shields.io/clojars/v/com.dedovic/curand-clj.svg)](https://clojars.org/com.dedovic/curand-clj)
 
 A cuRAND wrapper for Clojure. 
 
 Inspired by (and built using) [`uncomplicate/clojurecuda`](https://github.com/uncomplicate/clojurecuda). This library intends to be an idiomatic wrapper of the JCurand API, itself being a 1-to-1 mapping of the cuRAND C/C++ API.
 
+## Installing
+![](https://clojars.org/com.dedovic/curand-clj/latest-version.svg)
+
+Add this to your Lein `project.clj`:
 ```clj
-[clojure-curand "0.11.1"]
+[com.dedovic/curand-clj "0.11.1"]
 ```
 
 ## Usage
